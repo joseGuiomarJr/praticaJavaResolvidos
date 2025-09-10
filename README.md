@@ -89,7 +89,7 @@ Documentação clara dos exercícios para reprodutibilidade.
 
 Clone este repositório:
 
-git clone https://github.com/joseGjr/PRATICA_JAVA_RESOLVIDOS.git
+git clonehttps://github.com/joseGuiomarJr/praticaJavaResolvidos.git
 
 
 Abra no IntelliJ IDEA ou outra IDE de sua preferência.
