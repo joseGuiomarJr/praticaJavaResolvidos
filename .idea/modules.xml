@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PRATICA_JAVA_RESOLVIDOS.iml" filepath="$PROJECT_DIR$/PRATICA_JAVA_RESOLVIDOS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/applicationExTryCatch/applicationExTryCatch.iml" filepath="$PROJECT_DIR$/applicationExTryCatch/applicationExTryCatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bancoConceitosHeranca/bancoConceitosHeranca.iml" filepath="$PROJECT_DIR$/bancoConceitosHeranca/bancoConceitosHeranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dataHoraJava/dataHoraJava.iml" filepath="$PROJECT_DIR$/dataHoraJava/dataHoraJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diamanteProblema/diamanteProblema.iml" filepath="$PROJECT_DIR$/diamanteProblema/diamanteProblema.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interFaceComparable/interFaceComparable.iml" filepath="$PROJECT_DIR$/interFaceComparable/interFaceComparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/matrizes/matrizes.iml" filepath="$PROJECT_DIR$/matrizes/matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalhandoArquivos/trabalhandoArquivos.iml" filepath="$PROJECT_DIR$/trabalhandoArquivos/trabalhandoArquivos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/treinoAbstractClass/treinoAbstractClass.iml" filepath="$PROJECT_DIR$/treinoAbstractClass/treinoAbstractClass.iml" />
+    </modules>
+  </component>
+</project>
